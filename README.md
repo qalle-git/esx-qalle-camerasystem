@@ -57,6 +57,8 @@ end
 [REQUIREMENTS]
   
 * ESX
+* esx_skin
+* skinchanger
 
 [INSTALLATION]
 
